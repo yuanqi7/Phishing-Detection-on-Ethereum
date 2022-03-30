@@ -1,4 +1,8 @@
 # Phishing Detection on Ethereum
+
+## ⚠ Note 
+The code of Trans2vec is not included in this repository. Please download the code in [XBlock](http://xblock.pro/#/dataset/6).
+
 ## Introduction
 Recently, blockchain technology has become a topic in the spotlight but also a hotbed of various cybercrimes. 
 Ethereum is currently the largest blockchain platform that supports smart contracts and the corresponding cryptocurrency ether is the second-largest cyptocurrency.
